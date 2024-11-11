@@ -1,3 +1,5 @@
+# Date:05.10.2024
+
 # Ex-04
 # Single server with infinite capacity (M/M/1):(oo/FIFO)
 ## Aim :
